@@ -1,0 +1,1213 @@
+{
+    "books": [
+        {
+            "affiliates": [
+                {
+                    "name": "Waterstones",
+                    "url": "https://www.waterstones.com/books/search/term/Somehow+David+Downes"
+                },
+                {
+                    "name": "Audible",
+                    "url": "https://www.audible.co.uk/search?keywords=Somehow+David+Downes"
+                },
+                {
+                    "name": "Hive",
+                    "url": "https://www.hive.co.uk/Search/Keyword?keyword=Somehow+David+Downes&productType=1"
+                }
+            ],
+            "recommendationId": null,
+            "parallel1TitleOnly": false,
+            "parallel2TitleOnly": false,
+            "parallel3TitleOnly": false,
+            "newCountry1": 0,
+            "newCountry2": 0,
+            "newCountry3": 0,
+            "individualBookUrl": "/book/13177/Somehow-David-Downes/",
+            "translatedBy": "",
+            "rankings": [
+                {
+                    "qNumber": 4,
+                    "qValue": 8,
+                    "qName": null,
+                    "qNormalized": 3
+                },
+                {
+                    "qNumber": 9,
+                    "qValue": 2,
+                    "qName": null,
+                    "qNormalized": 3
+                },
+                {
+                    "qNumber": 2,
+                    "qValue": 3,
+                    "qName": null,
+                    "qNormalized": 2
+                },
+                {
+                    "qNumber": 8,
+                    "qValue": 3,
+                    "qName": null,
+                    "qNormalized": 2
+                },
+                {
+                    "qNumber": 10,
+                    "qValue": 3,
+                    "qName": null,
+                    "qNormalized": 2
+                },
+                {
+                    "qNumber": 12,
+                    "qValue": 3,
+                    "qName": null,
+                    "qNormalized": 2
+                },
+                {
+                    "qNumber": 1,
+                    "qValue": 4,
+                    "qName": null,
+                    "qNormalized": 1
+                }
+            ],
+            "colour": "#7d3200",
+            "id": 13177,
+            "rank": 0,
+            "title": "Somehow",
+            "author": "David Downes",
+            "review": "A witty English version of noir will take you down the recognisable streets of London and Brighton. It\u2019s surprisingly warm and builds the tension as you\u2019ll start to care for the world-weary protagonist\u2019s survival. Full of unexpected observations of people and what they wear, or drive, or eat, it\u2019s a rich and funny read. It was over before I was ready so I turned back and savoured it more slowly second time through.",
+            "extract": "<p style=\"line-height: 15.0pt; mso-line-height-rule: exactly;\" class=\"MsoNormal\">A cloying thickness of potted shrimp and stewed tea emanated from the remarkable small aperture that was his mouth, looking as if he\u2019d spent an inordinate amount of time holding a shirt button between his lips. He suddenly became remarkably elongated, leaning from the hip and stretching out an articulated arm to open a glass-panelled door, frosted and chased, while guiding me towards it by my elbow. I was momentarily convinced that he possessed four arms, then stepped through into a small room colder than a politician\u2019s heart and a dozen or so church candles in a votive stand \u2026The door clicked behind me and I was alone with whatever remained of Jackie Scarr.</p>",
+            "publicationYear": 2024,
+            "imageUrl": "/assets/bookcovers/13177.jpg",
+            "asin": "B0CSZC1GXH",
+            "audio": false,
+            "largePrint": false,
+            "sex": 1,
+            "orientation": 2,
+            "age": 3,
+            "culture": 5,
+            "region": 0,
+            "regionCountry": 0,
+            "secondaryCountry": 0,
+            "tertiaryCountry": 0,
+            "regionCountryCode": "",
+            "secondaryCountryCode": "",
+            "tertiaryCountryCode": "",
+            "plot1": 5,
+            "plot2": 4,
+            "parallels": [
+                {
+                    "id": 0,
+                    "title": "Aberystwyth Mon Amour",
+                    "author": "Malcolm Pryce",
+                    "individualBookUrl": null,
+                    "displayText": "Aberystwyth Mon Amour by Malcolm Pryce"
+                },
+                {
+                    "id": 0,
+                    "title": "Out of the Dark",
+                    "author": "David Gaffney",
+                    "individualBookUrl": null,
+                    "displayText": "Out of the Dark by David Gaffney"
+                },
+                {
+                    "id": 0,
+                    "title": "The Young Team",
+                    "author": "Graeme Armstrong",
+                    "individualBookUrl": null,
+                    "displayText": "The Young Team by Graeme Armstrong"
+                }
+            ],
+            "violenceFlag": 0,
+            "sexFlag": 0
+        },
+        {
+            "affiliates": [
+                {
+                    "name": "Waterstones",
+                    "url": "https://www.waterstones.com/books/search/term/Fear+and+Trembling+Amelie+Northomb"
+                },
+                {
+                    "name": "Audible",
+                    "url": "https://www.audible.co.uk/search?keywords=Fear+and+Trembling+Amelie+Northomb"
+                },
+                {
+                    "name": "Hive",
+                    "url": "https://www.hive.co.uk/Search/Keyword?keyword=Fear+and+Trembling+Amelie+Northomb&productType=1"
+                },
+                {
+                    "name": "Amazon",
+                    "url": "https://www.amazon.co.uk/dp/0571220487?tag=whichbooknet-21&linkCode=osi&th=1&psc=1"
+                }
+            ],
+            "recommendationId": null,
+            "parallel1TitleOnly": false,
+            "parallel2TitleOnly": false,
+            "parallel3TitleOnly": false,
+            "newCountry1": 0,
+            "newCountry2": 0,
+            "newCountry3": 0,
+            "individualBookUrl": "/book/2247/Fear-and-Trembling-Amelie-Northomb/",
+            "translatedBy": "Adriana Hunter",
+            "rankings": [
+                {
+                    "qNumber": 4,
+                    "qValue": 8,
+                    "qName": null,
+                    "qNormalized": 3
+                },
+                {
+                    "qNumber": 9,
+                    "qValue": 2,
+                    "qName": null,
+                    "qNormalized": 3
+                },
+                {
+                    "qNumber": 2,
+                    "qValue": 3,
+                    "qName": null,
+                    "qNormalized": 2
+                },
+                {
+                    "qNumber": 5,
+                    "qValue": 7,
+                    "qName": null,
+                    "qNormalized": 2
+                },
+                {
+                    "qNumber": 6,
+                    "qValue": 3,
+                    "qName": null,
+                    "qNormalized": 2
+                },
+                {
+                    "qNumber": 7,
+                    "qValue": 3,
+                    "qName": null,
+                    "qNormalized": 2
+                },
+                {
+                    "qNumber": 8,
+                    "qValue": 3,
+                    "qName": null,
+                    "qNormalized": 2
+                }
+            ],
+            "colour": "#e10000",
+            "id": 2247,
+            "rank": 5,
+            "title": "Fear and Trembling",
+            "author": "Amelie Northomb",
+            "review": "Fulfilling a lifelong dream to live and work in Japan, Amelie, a western woman, goes to work for the Yumimoto corporation in Japan.  This turns into a laughable nightmare.  It makes you think of the old saying:  'Be careful what you wish for, you may just get it.'\r\n\r\n\r\n\r\n",
+            "extract": "'You no longer know how to speak Japanese.  Is this clear?'<br>\r\n'But - it was because of my knowledge of language that I was hired by Yuminmoto!'<br>\r\n'That doesn't matter - I am ordering you not to understand Japanese anymore.'<br>\r\n'That's impossible.  No one could obey an order like that.'<br>\r\n'There is always a means of obeying.  That's what Western brains need to understand.'\r\n\r\n\r\n\r\n",
+            "publicationYear": 2001,
+            "imageUrl": "/assets/bookcovers/2247.jpg",
+            "asin": "0571220487",
+            "audio": false,
+            "largePrint": false,
+            "sex": 2,
+            "orientation": 2,
+            "age": 1,
+            "culture": 5,
+            "region": 6,
+            "regionCountry": 65,
+            "secondaryCountry": 0,
+            "tertiaryCountry": 0,
+            "regionCountryCode": "JP",
+            "secondaryCountryCode": "",
+            "tertiaryCountryCode": "",
+            "plot1": 0,
+            "plot2": 1,
+            "parallels": [
+                {
+                    "id": 2270,
+                    "title": "The Earthquake Bird",
+                    "author": "Susanna Jones",
+                    "individualBookUrl": "/book/2270/The-Earthquake-Bird-Susanna-Jones/",
+                    "displayText": "The Earthquake Bird by Susanna Jones"
+                },
+                {
+                    "id": 0,
+                    "title": "Character of Rain",
+                    "author": "Amelie Northomb ",
+                    "individualBookUrl": null,
+                    "displayText": "Character of Rain by Amelie Northomb "
+                },
+                {
+                    "id": 0,
+                    "title": "Rising Sun",
+                    "author": "Michael Crichton",
+                    "individualBookUrl": null,
+                    "displayText": "Rising Sun by Michael Crichton"
+                }
+            ],
+            "violenceFlag": 0,
+            "sexFlag": 0
+        },
+        {
+            "affiliates": [
+                {
+                    "name": "Waterstones",
+                    "url": "https://www.waterstones.com/books/search/term/Iceland+Jim+Krusoe"
+                },
+                {
+                    "name": "Audible",
+                    "url": "https://www.audible.co.uk/search?keywords=Iceland+Jim+Krusoe"
+                },
+                {
+                    "name": "Hive",
+                    "url": "https://www.hive.co.uk/Search/Keyword?keyword=Iceland+Jim+Krusoe&productType=1"
+                },
+                {
+                    "name": "Amazon",
+                    "url": "https://www.amazon.co.uk/dp/1564783146?tag=whichbooknet-21&linkCode=osi&th=1&psc=1"
+                }
+            ],
+            "recommendationId": null,
+            "parallel1TitleOnly": false,
+            "parallel2TitleOnly": false,
+            "parallel3TitleOnly": false,
+            "newCountry1": 0,
+            "newCountry2": 0,
+            "newCountry3": 0,
+            "individualBookUrl": "/book/2621/Iceland-Jim-Krusoe/",
+            "translatedBy": "",
+            "rankings": [
+                {
+                    "qNumber": 7,
+                    "qValue": 2,
+                    "qName": null,
+                    "qNormalized": 3
+                },
+                {
+                    "qNumber": 8,
+                    "qValue": 2,
+                    "qName": null,
+                    "qNormalized": 3
+                },
+                {
+                    "qNumber": 10,
+                    "qValue": 2,
+                    "qName": null,
+                    "qNormalized": 3
+                },
+                {
+                    "qNumber": 2,
+                    "qValue": 3,
+                    "qName": null,
+                    "qNormalized": 2
+                },
+                {
+                    "qNumber": 4,
+                    "qValue": 7,
+                    "qName": null,
+                    "qNormalized": 2
+                },
+                {
+                    "qNumber": 5,
+                    "qValue": 7,
+                    "qName": null,
+                    "qNormalized": 2
+                },
+                {
+                    "qNumber": 6,
+                    "qValue": 3,
+                    "qName": null,
+                    "qNormalized": 2
+                }
+            ],
+            "colour": "#7d644b",
+            "id": 2621,
+            "rank": 5,
+            "title": "Iceland",
+            "author": "Jim Krusoe",
+            "review": "Don't let the look of this book put you off reading it - contrary to appearances, it is a compelling tale of a man's search for his one true love.  I found the offbeat telling of this fantastic story, with its many digressions and distinctive style, strangely compulsive reading.\r\n",
+            "extract": "'Good morning,' he said, 'My name is Sonny and my friend here is Dane.  You look to be in some difficulty.  If you wait for a moment we will wrap you in the emergency survival blanket made of quilted aluminium on one side to hold in the heat, and black, marked with yellow stripes so as to be easily seen from the air, on the other, which I happen to have with me.  Actually, it is not at all surprising I have such a blanket because the laws for Iceland require each citizen carry one with him or her at all times.  By the way both Dane and I are professional outdoorsmen so we take no notice of your nakedness.'\r\n",
+            "publicationYear": 2002,
+            "imageUrl": "/assets/bookcovers/2621.jpg",
+            "asin": "1564783146",
+            "audio": false,
+            "largePrint": false,
+            "sex": 1,
+            "orientation": 2,
+            "age": 2,
+            "culture": 5,
+            "region": 12,
+            "regionCountry": 132,
+            "secondaryCountry": 0,
+            "tertiaryCountry": 0,
+            "regionCountryCode": "northAmerica",
+            "secondaryCountryCode": "",
+            "tertiaryCountryCode": "",
+            "plot1": 5,
+            "plot2": 2,
+            "parallels": [
+                {
+                    "id": 0,
+                    "title": "Blood Lake:  And Other Stories",
+                    "author": "Jim  Krusoe",
+                    "individualBookUrl": null,
+                    "displayText": "Blood Lake:  And Other Stories by Jim  Krusoe"
+                },
+                {
+                    "id": 0,
+                    "title": "Love Me",
+                    "author": "Garrison Keillor",
+                    "individualBookUrl": null,
+                    "displayText": "Love Me by Garrison Keillor"
+                },
+                {
+                    "id": 0,
+                    "title": "Bachelor Brother's Bed and Breakfast",
+                    "author": "Bill Richardson",
+                    "individualBookUrl": null,
+                    "displayText": "Bachelor Brother's Bed and Breakfast by Bill Richardson"
+                }
+            ],
+            "violenceFlag": 0,
+            "sexFlag": 0
+        },
+        {
+            "affiliates": [
+                {
+                    "name": "Waterstones",
+                    "url": "https://www.waterstones.com/books/search/term/A+Long+Way+From+Douala+Max+Lobe"
+                },
+                {
+                    "name": "Audible",
+                    "url": "https://www.audible.co.uk/search?keywords=A+Long+Way+From+Douala+Max+Lobe"
+                },
+                {
+                    "name": "Hive",
+                    "url": "https://www.hive.co.uk/Search/Keyword?keyword=A+Long+Way+From+Douala+Max+Lobe&productType=1"
+                },
+                {
+                    "name": "Amazon",
+                    "url": "https://www.amazon.co.uk/dp/1913109011?tag=whichbooknet-21&linkCode=osi&th=1&psc=1"
+                }
+            ],
+            "recommendationId": null,
+            "parallel1TitleOnly": false,
+            "parallel2TitleOnly": false,
+            "parallel3TitleOnly": false,
+            "newCountry1": 0,
+            "newCountry2": 0,
+            "newCountry3": 0,
+            "individualBookUrl": "/book/12721/A-Long-Way-From-Douala--Max-Lobe/",
+            "translatedBy": "Ros Schwartz",
+            "rankings": [
+                {
+                    "qNumber": 5,
+                    "qValue": 9,
+                    "qName": null,
+                    "qNormalized": 4
+                },
+                {
+                    "qNumber": 9,
+                    "qValue": 1,
+                    "qName": null,
+                    "qNormalized": 4
+                },
+                {
+                    "qNumber": 6,
+                    "qValue": 3,
+                    "qName": null,
+                    "qNormalized": 2
+                },
+                {
+                    "qNumber": 8,
+                    "qValue": 3,
+                    "qName": null,
+                    "qNormalized": 2
+                },
+                {
+                    "qNumber": 10,
+                    "qValue": 3,
+                    "qName": null,
+                    "qNormalized": 2
+                },
+                {
+                    "qNumber": 11,
+                    "qValue": 3,
+                    "qName": null,
+                    "qNormalized": 2
+                },
+                {
+                    "qNumber": 1,
+                    "qValue": 4,
+                    "qName": null,
+                    "qNormalized": 1
+                }
+            ],
+            "colour": "#4b4b19",
+            "id": 12721,
+            "rank": 7,
+            "title": "A Long Way From Douala",
+            "author": " Max Lobe",
+            "review": "I found this book to be a compassionate coming-of-age journey through a richly described Cameroon. I enjoyed reading about a whole host of colourful characters from grief-stricken parents to corrupt police and shady people smugglers. I felt the ever-present threat of Boko Haram but laughed at the developing relationship between two friends as they navigate through a country in turmoil and search for their runaway brother.",
+            "extract": "<p>Under a merciless sun, we went down all the dusty alleyways of the seedy solo-quarter in search of Roger\u2019s former teammates. Like Jehovah\u2019s Witnesses, we went from door to door: houses, small shops \u2013 the whole lot. We knocked. We questioned. When necessary, we showed a photo of him posing, smiling, bare-chested, in red shorts with a ball at his feet. Each time, people shook their heads. They all said the same thing: \u2018We haven\u2019t seen him since your father passed away. Not even with our own eyes.\u2019<br />Eventually, we ended up back on the main road. Once there, unlike at Pa\u2019s funeral, I broke down. I simply couldn\u2019t hold back my tears.</p>\n<p>In front of Simon, I can cry.</p>",
+            "publicationYear": 2021,
+            "imageUrl": "/assets/bookcovers/12721.jpg",
+            "asin": "B08W1TGRZ6",
+            "audio": false,
+            "largePrint": false,
+            "sex": 1,
+            "orientation": 1,
+            "age": 1,
+            "culture": 2,
+            "region": 0,
+            "regionCountry": 178,
+            "secondaryCountry": 0,
+            "tertiaryCountry": 0,
+            "regionCountryCode": "CM",
+            "secondaryCountryCode": "",
+            "tertiaryCountryCode": "",
+            "plot1": 5,
+            "plot2": 6,
+            "parallels": [
+                {
+                    "id": 0,
+                    "title": "The Adventures of Huckleberry Finn",
+                    "author": "Mark Twain",
+                    "individualBookUrl": null,
+                    "displayText": "The Adventures of Huckleberry Finn by Mark Twain"
+                },
+                {
+                    "id": 0,
+                    "title": "The Motorcycle Diaries",
+                    "author": "Che Guevara",
+                    "individualBookUrl": null,
+                    "displayText": "The Motorcycle Diaries by Che Guevara"
+                }
+            ],
+            "violenceFlag": 0,
+            "sexFlag": 0
+        },
+        {
+            "affiliates": [
+                {
+                    "name": "Waterstones",
+                    "url": "https://www.waterstones.com/books/search/term/Rant+Alfie+Crow"
+                },
+                {
+                    "name": "Audible",
+                    "url": "https://www.audible.co.uk/search?keywords=Rant+Alfie+Crow"
+                },
+                {
+                    "name": "Hive",
+                    "url": "https://www.hive.co.uk/Search/Keyword?keyword=Rant+Alfie+Crow&productType=1"
+                },
+                {
+                    "name": "Amazon",
+                    "url": "https://www.amazon.co.uk/dp/B01K9626EC?tag=whichbooknet-21&linkCode=osi&th=1&psc=1"
+                }
+            ],
+            "recommendationId": null,
+            "parallel1TitleOnly": false,
+            "parallel2TitleOnly": false,
+            "parallel3TitleOnly": false,
+            "newCountry1": 0,
+            "newCountry2": 0,
+            "newCountry3": 0,
+            "individualBookUrl": "/book/11301/Rant-Alfie-Crow/",
+            "translatedBy": "",
+            "rankings": [
+                {
+                    "qNumber": 4,
+                    "qValue": 9,
+                    "qName": null,
+                    "qNormalized": 4
+                },
+                {
+                    "qNumber": 2,
+                    "qValue": 2,
+                    "qName": null,
+                    "qNormalized": 3
+                },
+                {
+                    "qNumber": 11,
+                    "qValue": 2,
+                    "qName": null,
+                    "qNormalized": 3
+                },
+                {
+                    "qNumber": 3,
+                    "qValue": 7,
+                    "qName": null,
+                    "qNormalized": 2
+                },
+                {
+                    "qNumber": 7,
+                    "qValue": 7,
+                    "qName": null,
+                    "qNormalized": 2
+                },
+                {
+                    "qNumber": 8,
+                    "qValue": 3,
+                    "qName": null,
+                    "qNormalized": 2
+                },
+                {
+                    "qNumber": 9,
+                    "qValue": 3,
+                    "qName": null,
+                    "qNormalized": 2
+                }
+            ],
+            "colour": "#324b64",
+            "id": 11301,
+            "rank": 7,
+            "title": "Rant",
+            "author": "Alfie Crow",
+            "review": "Meet Mike Rant, would be actor and reluctant agent, on a series of wildly unlikely but very funny adventures.  I particularly enjoyed the one about the child who has Tourettes and his classmates.",
+            "extract": "'I think it's my wife's finger,' I sobbed.  'Like a ransom demand thing.' <br />   He peered at the finger, looking slightly queasy.<br />  'She has very hairy knuckles, your wife.'   He said<br />   I looked closer.  He was right.  I hadn't noticed that before.<br />  'And very large hands for a woman.'  He looked at me.  'She's not a transsexual or something is she?  I mean, I don't mind.  I just don't want to cause offence.'<br /><br />",
+            "publicationYear": 2013,
+            "imageUrl": "/assets/bookcovers/11301.jpg",
+            "asin": "1901888886",
+            "audio": false,
+            "largePrint": false,
+            "sex": 1,
+            "orientation": 2,
+            "age": 2,
+            "culture": 5,
+            "region": 13,
+            "regionCountry": 137,
+            "secondaryCountry": 0,
+            "tertiaryCountry": 0,
+            "regionCountryCode": "EU-GB",
+            "secondaryCountryCode": "",
+            "tertiaryCountryCode": "",
+            "plot1": 4,
+            "plot2": 7,
+            "parallels": [
+                {
+                    "id": 9247,
+                    "title": "Utterly Monkey",
+                    "author": "Nick Laird",
+                    "individualBookUrl": "/book/9247/Utterly-Monkey-Nick-Laird/",
+                    "displayText": "Utterly Monkey by Nick Laird"
+                },
+                {
+                    "id": 0,
+                    "title": "Four Lions - the film",
+                    "author": "",
+                    "individualBookUrl": null,
+                    "displayText": "Four Lions - the film"
+                }
+            ],
+            "violenceFlag": 2,
+            "sexFlag": 0
+        },
+        {
+            "affiliates": [
+                {
+                    "name": "Waterstones",
+                    "url": "https://www.waterstones.com/books/search/term/The+Mango+Season+Amulya+Malladi"
+                },
+                {
+                    "name": "Audible",
+                    "url": "https://www.audible.co.uk/search?keywords=The+Mango+Season+Amulya+Malladi"
+                },
+                {
+                    "name": "Hive",
+                    "url": "https://www.hive.co.uk/Search/Keyword?keyword=The+Mango+Season+Amulya+Malladi&productType=1"
+                },
+                {
+                    "name": "Amazon",
+                    "url": "https://www.amazon.co.uk/dp/1092928790?tag=whichbooknet-21&linkCode=osi&th=1&psc=1"
+                }
+            ],
+            "recommendationId": null,
+            "parallel1TitleOnly": false,
+            "parallel2TitleOnly": false,
+            "parallel3TitleOnly": false,
+            "newCountry1": 0,
+            "newCountry2": 0,
+            "newCountry3": 0,
+            "individualBookUrl": "/book/2560/The-Mango-Season-Amulya-Malladi/",
+            "translatedBy": "",
+            "rankings": [
+                {
+                    "qNumber": 3,
+                    "qValue": 8,
+                    "qName": null,
+                    "qNormalized": 3
+                },
+                {
+                    "qNumber": 4,
+                    "qValue": 8,
+                    "qName": null,
+                    "qNormalized": 3
+                },
+                {
+                    "qNumber": 7,
+                    "qValue": 2,
+                    "qName": null,
+                    "qNormalized": 3
+                },
+                {
+                    "qNumber": 9,
+                    "qValue": 2,
+                    "qName": null,
+                    "qNormalized": 3
+                },
+                {
+                    "qNumber": 2,
+                    "qValue": 3,
+                    "qName": null,
+                    "qNormalized": 2
+                },
+                {
+                    "qNumber": 6,
+                    "qValue": 3,
+                    "qName": null,
+                    "qNormalized": 2
+                },
+                {
+                    "qNumber": 8,
+                    "qValue": 3,
+                    "qName": null,
+                    "qNormalized": 2
+                }
+            ],
+            "colour": "#7d3219",
+            "id": 2560,
+            "rank": 8,
+            "title": "The Mango Season",
+            "author": "Amulya Malladi",
+            "review": "This is the family reunion from hell.  Bitching aunts, unmarried daughters, patriarchal men, sons scared of their parents, an arranged marriage to a suitable boy, enough mango chutney to sink a battleship, and a very unsuitable girl.  And the coup de theatre at the end had me laughing out loud.\r\n",
+            "extract": "The gifts also cannot be bought and dispensed with without drama.  Every gift will be analyzed.  For example, I cannot give Ammamma a less expensive gift than the one I would give to Neelima.  That would offend Ammamma because she was senior to Neelima.  Similarly, I cannot buy Lata something more expensive than what I would get my mother.  I also cannot buy something so cheap that Lata would be offended.\r\n",
+            "publicationYear": 2003,
+            "imageUrl": "/assets/bookcovers/2560.jpg",
+            "asin": "0345450302",
+            "audio": false,
+            "largePrint": false,
+            "sex": 2,
+            "orientation": 2,
+            "age": 2,
+            "culture": 1,
+            "region": 1,
+            "regionCountry": 21,
+            "secondaryCountry": 132,
+            "tertiaryCountry": 133,
+            "regionCountryCode": "IN",
+            "secondaryCountryCode": "northAmerica",
+            "tertiaryCountryCode": "northAmerica",
+            "plot1": 1,
+            "plot2": 3,
+            "parallels": [
+                {
+                    "id": 0,
+                    "title": "A Suitable Boy",
+                    "author": "Vikram Seth",
+                    "individualBookUrl": null,
+                    "displayText": "A Suitable Boy by Vikram Seth"
+                },
+                {
+                    "id": 0,
+                    "title": "Pride and Prejudice",
+                    "author": "Jane Austen",
+                    "individualBookUrl": null,
+                    "displayText": "Pride and Prejudice by Jane Austen"
+                },
+                {
+                    "id": 1994,
+                    "title": "The God of Small Things",
+                    "author": "Arundhati Roy",
+                    "individualBookUrl": "/book/1994/The-God-of-Small-Things-Arundhati-Roy/",
+                    "displayText": "The God of Small Things by Arundhati Roy"
+                }
+            ],
+            "violenceFlag": 0,
+            "sexFlag": 0
+        },
+        {
+            "affiliates": [
+                {
+                    "name": "Waterstones",
+                    "url": "https://www.waterstones.com/books/search/term/The+Sense+of+an+Ending+Julian+Barnes"
+                },
+                {
+                    "name": "Audible",
+                    "url": "https://www.audible.co.uk/search?keywords=The+Sense+of+an+Ending+Julian+Barnes"
+                },
+                {
+                    "name": "Hive",
+                    "url": "https://www.hive.co.uk/Search/Keyword?keyword=The+Sense+of+an+Ending+Julian+Barnes&productType=1"
+                },
+                {
+                    "name": "Amazon",
+                    "url": "https://www.amazon.co.uk/dp/0099564971?tag=whichbooknet-21&linkCode=osi&th=1&psc=1"
+                }
+            ],
+            "recommendationId": null,
+            "parallel1TitleOnly": false,
+            "parallel2TitleOnly": false,
+            "parallel3TitleOnly": false,
+            "newCountry1": 0,
+            "newCountry2": 0,
+            "newCountry3": 0,
+            "individualBookUrl": "/book/10574/The-Sense-of-an-Ending-Julian-Barnes/",
+            "translatedBy": "",
+            "rankings": [
+                {
+                    "qNumber": 3,
+                    "qValue": 2,
+                    "qName": null,
+                    "qNormalized": 3
+                },
+                {
+                    "qNumber": 5,
+                    "qValue": 8,
+                    "qName": null,
+                    "qNormalized": 3
+                },
+                {
+                    "qNumber": 8,
+                    "qValue": 2,
+                    "qName": null,
+                    "qNormalized": 3
+                },
+                {
+                    "qNumber": 9,
+                    "qValue": 2,
+                    "qName": null,
+                    "qNormalized": 3
+                },
+                {
+                    "qNumber": 4,
+                    "qValue": 7,
+                    "qName": null,
+                    "qNormalized": 2
+                },
+                {
+                    "qNumber": 6,
+                    "qValue": 3,
+                    "qName": null,
+                    "qNormalized": 2
+                },
+                {
+                    "qNumber": 1,
+                    "qValue": 6,
+                    "qName": null,
+                    "qNormalized": 1
+                }
+            ],
+            "colour": "#96967d",
+            "id": 10574,
+            "rank": 9,
+            "title": "The Sense of an Ending",
+            "author": "Julian Barnes",
+            "review": "This is a warm, conversational read, which feels like catching up with an old friend over a drink - a friend you maybe don't entirely agree with, who isn't afraid to show off his middle-class privilege, but whom you still enjoy seeing every few weeks, not least to find out the latest gossip he's heard since you last met. ",
+            "extract": "There seemed nothing left to look forward to. I was alone with two voices speaking clearly in my head: Margaret's saying, 'Tony, you're on your own now,' and Veronica's saying, 'You just don't get it ....  You never did, and you never will.'",
+            "publicationYear": 2011,
+            "imageUrl": "/assets/bookcovers/10574.jpg",
+            "asin": "0224094157",
+            "audio": true,
+            "largePrint": true,
+            "sex": 1,
+            "orientation": 2,
+            "age": 3,
+            "culture": 5,
+            "region": 13,
+            "regionCountry": 137,
+            "secondaryCountry": 0,
+            "tertiaryCountry": 0,
+            "regionCountryCode": "EU-GB",
+            "secondaryCountryCode": "",
+            "tertiaryCountryCode": "",
+            "plot1": 6,
+            "plot2": 3,
+            "parallels": [
+                {
+                    "id": 2966,
+                    "title": "Saturday",
+                    "author": "Ian McEwan",
+                    "individualBookUrl": "/book/2966/Saturday-Ian-McEwan/",
+                    "displayText": "Saturday by Ian McEwan"
+                },
+                {
+                    "id": 2024,
+                    "title": "Embers",
+                    "author": "Sandor Marai",
+                    "individualBookUrl": "/book/2024/Embers-Sandor-Marai/",
+                    "displayText": "Embers by Sandor Marai"
+                },
+                {
+                    "id": 0,
+                    "title": "The Wonder",
+                    "author": "Diane Evans",
+                    "individualBookUrl": null,
+                    "displayText": "The Wonder by Diane Evans"
+                }
+            ],
+            "violenceFlag": 0,
+            "sexFlag": 0
+        },
+        {
+            "affiliates": [
+                {
+                    "name": "Waterstones",
+                    "url": "https://www.waterstones.com/books/search/term/Why+We+Took+the+Car+Wolfgang+Herrndorf"
+                },
+                {
+                    "name": "Audible",
+                    "url": "https://www.audible.co.uk/search?keywords=Why+We+Took+the+Car+Wolfgang+Herrndorf"
+                },
+                {
+                    "name": "Hive",
+                    "url": "https://www.hive.co.uk/Search/Keyword?keyword=Why+We+Took+the+Car+Wolfgang+Herrndorf&productType=1"
+                },
+                {
+                    "name": "Amazon",
+                    "url": "https://www.amazon.co.uk/dp/1783440317?tag=whichbooknet-21&linkCode=osi&th=1&psc=1"
+                }
+            ],
+            "recommendationId": null,
+            "parallel1TitleOnly": false,
+            "parallel2TitleOnly": false,
+            "parallel3TitleOnly": false,
+            "newCountry1": 0,
+            "newCountry2": 0,
+            "newCountry3": 0,
+            "individualBookUrl": "/book/11440/Why-We-Took-the-Car-Wolfgang-Herrndorf/",
+            "translatedBy": "Tim Mohr",
+            "rankings": [
+                {
+                    "qNumber": 1,
+                    "qValue": 3,
+                    "qName": null,
+                    "qNormalized": 2
+                },
+                {
+                    "qNumber": 4,
+                    "qValue": 7,
+                    "qName": null,
+                    "qNormalized": 2
+                },
+                {
+                    "qNumber": 5,
+                    "qValue": 3,
+                    "qName": null,
+                    "qNormalized": 2
+                },
+                {
+                    "qNumber": 8,
+                    "qValue": 3,
+                    "qName": null,
+                    "qNormalized": 2
+                },
+                {
+                    "qNumber": 9,
+                    "qValue": 3,
+                    "qName": null,
+                    "qNormalized": 2
+                },
+                {
+                    "qNumber": 2,
+                    "qValue": 4,
+                    "qName": null,
+                    "qNormalized": 1
+                },
+                {
+                    "qNumber": 3,
+                    "qValue": 6,
+                    "qName": null,
+                    "qNormalized": 1
+                }
+            ],
+            "colour": "#00647d",
+            "id": 11440,
+            "rank": 9,
+            "title": "Why We Took the Car",
+            "author": "Wolfgang Herrndorf",
+            "review": "A word of warning -  do not leave your 14 year old son alone, so that you can take your wife to the rehab clinic, because you think he is too boring to get into trouble. His desire to impress the class beauty, and his friendship with the class bad boy, will lead to trouble of a kind that you cannot imagine. Think of Holden Caulfield going 'On the Road' and you get an inkling of the trouble to come.",
+            "extract": "Before I went to bed, I opened my laptop. I had four e-mails from my father complaining that I'd switched off my cell phone and wasn't answering the landline. I had to think up some excuse and would need to write him an e-mail back saying everything was going great here. Which it was. And since I didn't feel like writing the e-mail and couldn't think of a good excuse, I looked up Wallachia on Wikipedia. That's when my mind really started to race.",
+            "publicationYear": 2014,
+            "imageUrl": "/assets/bookcovers/11440.jpg",
+            "asin": "1783440317",
+            "audio": false,
+            "largePrint": false,
+            "sex": 1,
+            "orientation": 2,
+            "age": 1,
+            "culture": 5,
+            "region": 13,
+            "regionCountry": 139,
+            "secondaryCountry": 0,
+            "tertiaryCountry": 0,
+            "regionCountryCode": "DE",
+            "secondaryCountryCode": "",
+            "tertiaryCountryCode": "",
+            "plot1": 7,
+            "plot2": 1,
+            "parallels": [
+                {
+                    "id": 1941,
+                    "title": "Boyracers",
+                    "author": "Alan Bissett",
+                    "individualBookUrl": "/book/1941/Boyracers-Alan-Bissett/",
+                    "displayText": "Boyracers by Alan Bissett"
+                },
+                {
+                    "id": 0,
+                    "title": "Young Blood",
+                    "author": "Sifiso Mzobe",
+                    "individualBookUrl": null,
+                    "displayText": "Young Blood by Sifiso Mzobe"
+                },
+                {
+                    "id": 0,
+                    "title": "The Catcher in the Rye",
+                    "author": "J D Salinger",
+                    "individualBookUrl": null,
+                    "displayText": "The Catcher in the Rye by J D Salinger"
+                }
+            ],
+            "violenceFlag": 0,
+            "sexFlag": 0
+        },
+        {
+            "affiliates": [
+                {
+                    "name": "Waterstones",
+                    "url": "https://www.waterstones.com/books/search/term/Ghachar+Ghochar+Vivek+Shanbhag"
+                },
+                {
+                    "name": "Audible",
+                    "url": "https://www.audible.co.uk/search?keywords=Ghachar+Ghochar+Vivek+Shanbhag"
+                },
+                {
+                    "name": "Hive",
+                    "url": "https://www.hive.co.uk/Search/Keyword?keyword=Ghachar+Ghochar+Vivek+Shanbhag&productType=1"
+                },
+                {
+                    "name": "Amazon",
+                    "url": "https://www.amazon.co.uk/dp/0571336086?tag=whichbooknet-21&linkCode=osi&th=1&psc=1"
+                }
+            ],
+            "recommendationId": null,
+            "parallel1TitleOnly": false,
+            "parallel2TitleOnly": false,
+            "parallel3TitleOnly": false,
+            "newCountry1": 0,
+            "newCountry2": 0,
+            "newCountry3": 0,
+            "individualBookUrl": "/book/12070/Ghachar-Ghochar-Vivek-Shanbhag/",
+            "translatedBy": "Srinath Perur",
+            "rankings": [
+                {
+                    "qNumber": 8,
+                    "qValue": 1,
+                    "qName": null,
+                    "qNormalized": 4
+                },
+                {
+                    "qNumber": 2,
+                    "qValue": 2,
+                    "qName": null,
+                    "qNormalized": 3
+                },
+                {
+                    "qNumber": 5,
+                    "qValue": 8,
+                    "qName": null,
+                    "qNormalized": 3
+                },
+                {
+                    "qNumber": 9,
+                    "qValue": 2,
+                    "qName": null,
+                    "qNormalized": 3
+                },
+                {
+                    "qNumber": 10,
+                    "qValue": 3,
+                    "qName": null,
+                    "qNormalized": 2
+                },
+                {
+                    "qNumber": 12,
+                    "qValue": 3,
+                    "qName": null,
+                    "qNormalized": 2
+                },
+                {
+                    "qNumber": 3,
+                    "qValue": 4,
+                    "qName": null,
+                    "qNormalized": 1
+                }
+            ],
+            "colour": "#c8327d",
+            "id": 12070,
+            "rank": 10,
+            "title": "Ghachar Ghochar",
+            "author": "Vivek Shanbhag",
+            "review": "A rags to riches story with a twist narrated by the unnamed son of a middle class extended family living in Bangalore. When the family becomes rich, due to the enterprise of his Chikkappa (Uncle), the family dynamics change resulting in frequent arguments, chaos and eventually marriage breakdown. 'Being rich means you don't have to obey the rules.' Our hero, as is his habit, escapes to the Coffee Shop. Short, very funny and beautifully observed.",
+            "extract": "Now what can I say of myself that is only about me and not tied up with the others? Whenever I try to start, I quickly run into one of three women - Amma, Malati, or Anita - each more fearsome than the other.  I sometimes wonder if their every moment is spent sharpening their tongues, silently accumulating resentments for later use. And then, when they're in the mood, they'll whip up a storm that gives me the shivers even to think about.",
+            "publicationYear": 2017,
+            "imageUrl": "/assets/bookcovers/12070.jpg",
+            "asin": "0571336086",
+            "audio": true,
+            "largePrint": false,
+            "sex": 1,
+            "orientation": 2,
+            "age": 1,
+            "culture": 1,
+            "region": 1,
+            "regionCountry": 21,
+            "secondaryCountry": 0,
+            "tertiaryCountry": 0,
+            "regionCountryCode": "IN",
+            "secondaryCountryCode": "",
+            "tertiaryCountryCode": "",
+            "plot1": 2,
+            "plot2": 0,
+            "parallels": [
+                {
+                    "id": 9553,
+                    "title": "One Night at the Call Centre",
+                    "author": "Chetan Bhagat",
+                    "individualBookUrl": "/book/9553/One-Night-at-the-Call-Centre-Chetan-Bhagat/",
+                    "displayText": "One Night at the Call Centre by Chetan Bhagat"
+                },
+                {
+                    "id": 2560,
+                    "title": "The Mango Season",
+                    "author": "Amulya Malladi",
+                    "individualBookUrl": "/book/2560/The-Mango-Season-Amulya-Malladi/",
+                    "displayText": "The Mango Season by Amulya Malladi"
+                }
+            ],
+            "violenceFlag": 0,
+            "sexFlag": 0
+        },
+        {
+            "affiliates": [
+                {
+                    "name": "Waterstones",
+                    "url": "https://www.waterstones.com/books/search/term/Yuki+Chan+in+Bronte+Country+Mick+Jackson"
+                },
+                {
+                    "name": "Audible",
+                    "url": "https://www.audible.co.uk/search?keywords=Yuki+Chan+in+Bronte+Country+Mick+Jackson"
+                },
+                {
+                    "name": "Hive",
+                    "url": "https://www.hive.co.uk/Search/Keyword?keyword=Yuki+Chan+in+Bronte+Country+Mick+Jackson&productType=1"
+                },
+                {
+                    "name": "Amazon",
+                    "url": "https://www.amazon.co.uk/dp/0571254268?tag=whichbooknet-21&linkCode=osi&th=1&psc=1"
+                }
+            ],
+            "recommendationId": null,
+            "parallel1TitleOnly": false,
+            "parallel2TitleOnly": false,
+            "parallel3TitleOnly": false,
+            "newCountry1": 0,
+            "newCountry2": 0,
+            "newCountry3": 0,
+            "individualBookUrl": "/book/11858/Yuki-Chan-in-Bronte-Country-Mick-Jackson/",
+            "translatedBy": "",
+            "rankings": [
+                {
+                    "qNumber": 9,
+                    "qValue": 1,
+                    "qName": null,
+                    "qNormalized": 4
+                },
+                {
+                    "qNumber": 10,
+                    "qValue": 2,
+                    "qName": null,
+                    "qNormalized": 3
+                },
+                {
+                    "qNumber": 2,
+                    "qValue": 3,
+                    "qName": null,
+                    "qNormalized": 2
+                },
+                {
+                    "qNumber": 3,
+                    "qValue": 7,
+                    "qName": null,
+                    "qNormalized": 2
+                },
+                {
+                    "qNumber": 5,
+                    "qValue": 3,
+                    "qName": null,
+                    "qNormalized": 2
+                },
+                {
+                    "qNumber": 6,
+                    "qValue": 3,
+                    "qName": null,
+                    "qNormalized": 2
+                },
+                {
+                    "qNumber": 8,
+                    "qValue": 3,
+                    "qName": null,
+                    "qNormalized": 2
+                }
+            ],
+            "colour": "#c87d19",
+            "id": 11858,
+            "rank": 10,
+            "title": "Yuki Chan in Bronte Country",
+            "author": "Mick Jackson",
+            "review": "Yuki, a young Japanese girl, comes to Bronte country to retrace her dead mother's steps. She has very little English, money or clothes - only her mother's photos. Befriended by a local girl, the pair set out on a journey of discovery across the Yorkshire moors. Their adventures include shooting a rambler, being bitten by a dog and breaking into a Care Home. Yuki is a brilliant and funny creation. Atmospheric and imaginative. I loved it!",
+            "extract": "She turns to leave, but instead of seeing Denny creeping off across the moors, Yuki finds her standing right beside her, with the gun at arm's length pointing down into the valley, with one eye tightly shut. If she'd had the time Yuki might've asked her if she was sure this was such a good idea. But she sees Denny grit her teeth and narrow her open eye a little. Hears a 'schtack', sees the gun recoil and Denny's arm kick back with it. <br />A terrible shriek comes up from the valley. Kukiko turns and looks. The woman with the dog has her back to Yuki and Denny, but is standing straight as a post, clutching her backside.",
+            "publicationYear": 2016,
+            "imageUrl": "/assets/bookcovers/11858.jpg",
+            "asin": "057125425X",
+            "audio": false,
+            "largePrint": false,
+            "sex": 2,
+            "orientation": 2,
+            "age": 1,
+            "culture": 1,
+            "region": 13,
+            "regionCountry": 137,
+            "secondaryCountry": 0,
+            "tertiaryCountry": 0,
+            "regionCountryCode": "EU-GB",
+            "secondaryCountryCode": "",
+            "tertiaryCountryCode": "",
+            "plot1": 5,
+            "plot2": 0,
+            "parallels": [
+                {
+                    "id": 0,
+                    "title": "Who is Mr Satoshi",
+                    "author": "Jonathan Lee",
+                    "individualBookUrl": null,
+                    "displayText": "Who is Mr Satoshi by Jonathan Lee"
+                },
+                {
+                    "id": 9605,
+                    "title": "Autofiction",
+                    "author": "Hitomi Kanehara",
+                    "individualBookUrl": "/book/9605/Autofiction-Hitomi-Kanehara/",
+                    "displayText": "Autofiction by Hitomi Kanehara"
+                }
+            ],
+            "violenceFlag": 0,
+            "sexFlag": 0
+        }
+    ],
+    "paramsAsTextString": "Definitely Unpredictable + Definitely Unsexy + Fairly Funny + Fairly Easy + Fairly Conventional + Fairly Short + A Little Happy",
+    "totalRecords": 217,
+    "totalPages": 22,
+    "pageSize": 10,
+    "pageNumber": 1,
+    "current": "q4=8&q9=2&q2=3&q8=3&q10=3&q12=3&q1=4&audio=0&lp=0&film=0&page=1&pagesize=10",
+    "next": "q4=8&q9=2&q2=3&q8=3&q10=3&q12=3&q1=4&audio=0&lp=0&film=0&page=2&pagesize=10",
+    "previous": null,
+    "recommendationId": null,
+    "violenceFlagLabel": "Violence",
+    "sexFlagLabel": "Explicit sexual Content"
+}
