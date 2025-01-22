@@ -1,7 +1,7 @@
 import requests
 import json
 
-url = 'https://www.whichbook.net/api/v1/search?q4=8&q9=2&q2=3&q8=3&q10=3&q12=3&q1=4&pagesize=500'
+url = 'https://www.whichbook.net/api/v1/search?q4=8&q9=2&q2=3&q8=3&q10=3&q12=3&q1=4&pagesize=25'
 response = requests.get(url)
 
 if response.status_code == 200:
