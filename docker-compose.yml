@@ -1,16 +1,17 @@
 version: "3.5"
+
 services:
-  milvus:
-    image: milvusdb/milvus:v2.4.3
+  milvus-standalone:
+    image: milvusdb/milvus:v2.4.3  # Replace v2.4.3 with the latest version if needed
     container_name: milvus-standalone
-    environment:
-      - "TZ=UTC"
     ports:
-      - "19530:19530"
-      - "9091:9091"
+      - "19530:19530"  # Milvus service port
+      - "9091:9091"    # Prometheus port for monitoring
+    environment:
+      - "TZ=UTC"       # Set the timezone
     volumes:
-      - /tmp/milvus/db:/var/lib/milvus/db
-      - /tmp/milvus/conf:/var/lib/milvus/conf
-      - /tmp/milvus/logs:/var/lib/milvus/logs
-      - /tmp/milvus/wal:/var/lib/milvus/wal
-      - /tmp/milvus/data:/var/lib/milvus/data
+      - ./volumes/db:/var/lib/milvus/db        # Persistent data for Milvus database
+      - ./volumes/conf:/var/lib/milvus/conf    # Configuration files
+      - ./volumes/logs:/var/lib/milvus/logs    # Log files
+      - ./volumes/wal:/var/lib/milvus/wal      # Write-ahead log files
+      - ./volumes/data:/var/lib/milvus/data    # Vector data
