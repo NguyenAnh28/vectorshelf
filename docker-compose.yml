@@ -1,0 +1,16 @@
+version: "3.5"
+services:
+  milvus:
+    image: milvusdb/milvus:v2.4.3
+    container_name: milvus-standalone
+    environment:
+      - "TZ=UTC"
+    ports:
+      - "19530:19530"
+      - "9091:9091"
+    volumes:
+      - /tmp/milvus/db:/var/lib/milvus/db
+      - /tmp/milvus/conf:/var/lib/milvus/conf
+      - /tmp/milvus/logs:/var/lib/milvus/logs
+      - /tmp/milvus/wal:/var/lib/milvus/wal
+      - /tmp/milvus/data:/var/lib/milvus/data
